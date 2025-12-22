@@ -10,7 +10,7 @@ Cấu trúc bảng dữ liệu:
 <img width="832" height="689" alt="image" src="https://github.com/user-attachments/assets/cbd80e89-a4d0-4e90-9215-ba17c0588a6f" />
 
 Dashboard: 
+<img width="1421" height="737" alt="image" src="https://github.com/user-attachments/assets/d2737553-d913-4a4a-a029-e71a74db5d0d" />
 
-<img width="843" height="366" alt="image" src="https://github.com/user-attachments/assets/5fef6567-daf9-46e7-bc31-052dde3978bf" />
 
 
